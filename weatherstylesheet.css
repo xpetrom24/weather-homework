@@ -1,0 +1,10 @@
+html { 
+		background-color:#F0F8F8;}
+#temperature { 
+				width: 100px;
+				height: 100px;
+				background-color:white;
+				padding:10px;
+				float:right;
+				margin:10px;
+				border-radius: 10px;}
